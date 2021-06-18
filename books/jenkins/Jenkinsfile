@@ -10,7 +10,6 @@ pipeline {
     }
 
     environment {
-        //TODO: Edit these vars as per your env
         DEV_PROJECT = "bqdysx-books-dev"
         STAGE_PROJECT = "bqdysx-books-stage"
         APP_GIT_URL = "https://github.com/WaltZ1000/DO288-apps"
